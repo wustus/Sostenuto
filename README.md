@@ -7,10 +7,10 @@ NOTE:
 
 Install:
 
-	1. Downlad [Sostenuto.zip](https://drive.google.com/uc?export=download&id=1-2_gufnrwh-ln6FxafyyanDqDR5zFj8J)
-	2. Unzip the file
-	3. Drag the .component file into /Users/_your_name_/Library/Audio/Plug-Ins/Components
-	4. Enjoy!
+1. Download [Sostenuto.zip](https://drive.google.com/uc?export=download&id=1-2_gufnrwh-ln6FxafyyanDqDR5zFj8J)
+2. Unzip the file
+3. Drag the .component file into /Users/_your_name_/Library/Audio/Plug-Ins/Components
+4. Enjoy!
 
 How it works:
 
